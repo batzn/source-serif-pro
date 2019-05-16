@@ -1852,6 +1852,7 @@
 			<string>Alpha</string>
 			<string>Alphatonos</string>
 			<string>Lambda</string>
+			<string>Delta</string>
 		</array>
 		<key>public.kern1.GRK_Epsilon</key>
 		<array>
@@ -2958,6 +2959,7 @@
 		<array>
 			<string>Alpha</string>
 			<string>Lambda</string>
+			<string>Delta</string>
 		</array>
 		<key>public.kern2.GRK_Beta</key>
 		<array>
